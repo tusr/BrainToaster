@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Braintoaster</string>
+
+    <string name="title_activity_single_player">SinglePlayer</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_question">Question</string>
+    <string name="instructions">1. There are 2 sections Basic Maths and Gernal Knowledge, you have to select any one of them
+        \n
+    2.In each seaction there are 3 levels Beginner,Intermediate and Expert \n
+    3. In each secton there is a different time limit, for Beginner it's 10sec, for Intermediate it's 20sec and for Expert it's 30sec \n
+    4. For each right answer +1 marks, for every wrong answer -0.25 marks and for not attemped 0 marks will be given</string>
+</resources>
